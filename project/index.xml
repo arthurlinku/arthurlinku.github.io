@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Arthur Lin Ku</title>
+    <link>https://arthurlinku.github.io/project/</link>
+    <description>Recent content in Projects on Arthur Lin Ku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jan 2020 21:53:23 -0500</lastBuildDate>
+    
+	<atom:link href="https://arthurlinku.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Not in My Backyard the Spillover of Emission Regulation in Chinas Cities</title>
+      <link>https://arthurlinku.github.io/project/not-in-my-backyard-the-spillover-of-emission-regulation-in-chinas-cities/</link>
+      <pubDate>Wed, 29 Jan 2020 21:53:23 -0500</pubDate>
+      
+      <guid>https://arthurlinku.github.io/project/not-in-my-backyard-the-spillover-of-emission-regulation-in-chinas-cities/</guid>
+      <description>Increasing car emission contributes to air pollution in Chinese cities, and emission standards are adopted in cities to improve air quality. However, as the emission policies are usually adopted in metropolitans with regional influences, regions around these metropolitans may react the new emission regulations with more sales in older models. This study intends to evaluate the spillover effect of emission standards.</description>
+    </item>
+    
+  </channel>
+</rss>
