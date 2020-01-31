@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arthur Lin Ku</title>
-    <link>https://arthurlinku.github.io/authors/arthur-lin-ku/</link>
-    <description>Recent content on Arthur Lin Ku</description>
+    <title>Anthony Liu on Arthur Lin Ku</title>
+    <link>https://arthurlinku.github.io/authors/anthony-liu/</link>
+    <description>Recent content in Anthony Liu on Arthur Lin Ku</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jan 2020 09:55:24 -0500</lastBuildDate>
     
-	<atom:link href="https://arthurlinku.github.io/authors/arthur-lin-ku/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arthurlinku.github.io/authors/anthony-liu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://arthurlinku.github.io/project/the-effect-of-vehicle-ownership-restrictions-on-chinas-car-sales-fuel-consumption-and-greenhouse-gas-emissions/</guid>
       <description>China’s cities have grappled with notorious problems of congestion and air pollution by using vehicle ownership restrictions. In the seven large cities with this policy, households cannot purchase cars freely, but must first win an auction or lottery. In this paper, we examine how the policy of vehicle ownership restrictions affects China’s new car sales, its fuel consumption, and its greenhouse gas emissions. We first examine the effects of vehicle ownership restrictions on China’s aggregate car sales.</description>
-    </item>
-    
-    <item>
-      <title>Most Consumers Dont Buy Hybrids Is Rational Choice a Sufficient Explanation</title>
-      <link>https://arthurlinku.github.io/publication/most-consumers-dont-buy-hybrids-is-rational-choice-a-sufficient-explanation/</link>
-      <pubDate>Wed, 31 Dec 1969 19:33:39 -0500</pubDate>
-      
-      <guid>https://arthurlinku.github.io/publication/most-consumers-dont-buy-hybrids-is-rational-choice-a-sufficient-explanation/</guid>
-      <description></description>
     </item>
     
   </channel>
